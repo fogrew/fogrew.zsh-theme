@@ -21,7 +21,7 @@ Git folder of bad buy
 To install this theme, clone this repository into your Oh-My-Zsh `custom/themes`
 directory.
 
-    $ cd ~/.oh-my-zsh/custom
+    $ cd $ZSH_CUSTOM
     $ mkdir themes              # if it doesn't already exist
     $ cd themes
     $ git clone https://nights.site/Foggy/fogrew.zsh-theme.git
