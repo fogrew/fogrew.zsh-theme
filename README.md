@@ -10,7 +10,11 @@ This is a theme for [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh).
 * It displays time since last commit.
 * It displays current time.
 
+Git folder of good guy
 ![sreenshot](https://gurylev.com/i/5a7de928a4.jpg)
+
+Git folder of bad buy
+![sreenshot](https://gurylev.com/i/koco7z2x8d.jpg)
 
 ### Installation
 
